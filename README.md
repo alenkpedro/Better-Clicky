@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alenkpedro/better-clicky-releases/releases/latest"><b>⬇️ Baixar para macOS</b></a>
+  <a href="https://github.com/alenkpedro/better-clicky/releases/latest"><b>⬇️ Baixar para macOS</b></a>
   &nbsp;·&nbsp; macOS 14.2 ou mais novo &nbsp;·&nbsp; Apple Silicon e Intel
 </p>
 
@@ -50,7 +50,7 @@ Prefere digitar? Toque **Control** duas vezes e uma caixa de texto aparece no no
 
 ## Instalação
 
-1. [Baixe o `.dmg`](https://github.com/alenkpedro/better-clicky-releases/releases/latest), abra e arraste o **Better Clicky** para **Aplicativos**.
+1. [Baixe o `.dmg`](https://github.com/alenkpedro/better-clicky/releases/latest), abra e arraste o **Better Clicky** para **Aplicativos**.
 2. Na primeira abertura, clique com o botão direito no app → **Abrir** (ele não é autenticado pela Apple).
 3. Siga a apresentação: escolha o cérebro, cole as chaves de voz e teste o microfone.
 
