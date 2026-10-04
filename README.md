@@ -51,7 +51,7 @@ Prefere digitar? Toque **Control** duas vezes e uma caixa de texto aparece no no
 ## Instalação
 
 1. [Baixe o `.dmg`](https://github.com/alenkpedro/better-clicky/releases/latest), abra e arraste o **Better Clicky** para **Aplicativos**.
-2. Na primeira abertura, clique com o botão direito no app → **Abrir** (ele não é autenticado pela Apple).
+2. Se o macOS não deixar abrir na primeira vez (o app não é autenticado pela Apple): **Ajustes do Sistema → Privacidade e Segurança → Abrir Mesmo Assim**.
 3. Siga a apresentação: escolha o cérebro, cole as chaves de voz e teste o microfone.
 
 Depois disso, novas versões chegam sozinhas pelo próprio app.
